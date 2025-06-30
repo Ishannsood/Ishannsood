@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ishan Sood!
 
-<!--
-**Ishannsood/Ishannsood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Computer Science at George Brown College, Canada<br/>
+Currently learning Java and Spring Boot to develop robust backend applications<br/>
+Actively working on projects to strengthen problem-solving skills and deepen understanding of modern development tools<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let’s connect:**  
+- [LinkedIn](https://www.linkedin.com/in/oyesood/)  
+- [Email](mailto:soodishan03@gmail)  
+
+---
+
+> *“Striving for continuous growth through technology and collaboration.”*
+
+
+
