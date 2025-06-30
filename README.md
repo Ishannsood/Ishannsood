@@ -11,6 +11,8 @@ Actively working on projects to strengthen problem-solving skills and deepen und
 - [Email](mailto:soodishan03@gmail)  
 
 ---
+<!-- Github stats-->
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishannsood&show_icons=true&theme=radical)
 
 > *“Striving for continuous growth through technology and collaboration.”*
 
